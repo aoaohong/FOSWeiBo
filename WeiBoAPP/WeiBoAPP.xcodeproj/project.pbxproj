@@ -20,6 +20,7 @@
 		0FE150E91C0302E400979649 /* WeiBo_DiscoverVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150E81C0302E400979649 /* WeiBo_DiscoverVC.m */; };
 		0FE150EC1C03031400979649 /* WeiBo_ProfileVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150EB1C03031400979649 /* WeiBo_ProfileVC.m */; };
 		0FE150EF1C030D7D00979649 /* TabBar_NullVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150EE1C030D7D00979649 /* TabBar_NullVC.m */; };
+		2BD60DBF1C0337B1007294A3 /* ProfiltCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,8 @@
 		0FE150EB1C03031400979649 /* WeiBo_ProfileVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiBo_ProfileVC.m; sourceTree = "<group>"; };
 		0FE150ED1C030D7D00979649 /* TabBar_NullVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBar_NullVC.h; sourceTree = "<group>"; };
 		0FE150EE1C030D7D00979649 /* TabBar_NullVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBar_NullVC.m; sourceTree = "<group>"; };
+		2BD60DBD1C0337B1007294A3 /* ProfiltCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfiltCell.h; sourceTree = "<group>"; };
+		2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfiltCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +196,8 @@
 			children = (
 				0FE150EA1C03031400979649 /* WeiBo_ProfileVC.h */,
 				0FE150EB1C03031400979649 /* WeiBo_ProfileVC.m */,
+				2BD60DBD1C0337B1007294A3 /* ProfiltCell.h */,
+				2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */,
 			);
 			name = "我";
 			sourceTree = "<group>";
@@ -301,6 +306,7 @@
 				0FE150B81C02FC6400979649 /* ViewController.m in Sources */,
 				0FE150B51C02FC6400979649 /* AppDelegate.m in Sources */,
 				0FE150EC1C03031400979649 /* WeiBo_ProfileVC.m in Sources */,
+				2BD60DBF1C0337B1007294A3 /* ProfiltCell.m in Sources */,
 				0FE150E31C03021C00979649 /* WeiBo_MoreVC.m in Sources */,
 				0FE150E61C0302BE00979649 /* WeiBo_HomeVC.m in Sources */,
 				0FE150E91C0302E400979649 /* WeiBo_DiscoverVC.m in Sources */,
@@ -500,6 +506,7 @@
 				0FE150D11C02FC6400979649 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0FE150D21C02FC6400979649 /* Build configuration list for PBXNativeTarget "WeiBoAPPTests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +515,7 @@
 				0FE150D41C02FC6400979649 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

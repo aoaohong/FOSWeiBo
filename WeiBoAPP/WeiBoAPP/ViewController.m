@@ -16,11 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //二狗子
-    //二狗子
-    //二狗子
-    //二狗子
-    //二狗子
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 

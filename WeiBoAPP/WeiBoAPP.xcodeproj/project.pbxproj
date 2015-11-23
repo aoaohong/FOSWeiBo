@@ -21,6 +21,7 @@
 		0FE150EC1C03031400979649 /* WeiBo_ProfileVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150EB1C03031400979649 /* WeiBo_ProfileVC.m */; };
 		0FE150EF1C030D7D00979649 /* TabBar_NullVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150EE1C030D7D00979649 /* TabBar_NullVC.m */; };
 		2BD60DBF1C0337B1007294A3 /* ProfiltCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */; };
+		2BD60DC31C033F4C007294A3 /* ProFiltCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2BD60DC21C033F4C007294A3 /* ProFiltCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		0FE150EE1C030D7D00979649 /* TabBar_NullVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBar_NullVC.m; sourceTree = "<group>"; };
 		2BD60DBD1C0337B1007294A3 /* ProfiltCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfiltCell.h; sourceTree = "<group>"; };
 		2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfiltCell.m; sourceTree = "<group>"; };
+		2BD60DC21C033F4C007294A3 /* ProFiltCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProFiltCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,6 +200,7 @@
 				0FE150EB1C03031400979649 /* WeiBo_ProfileVC.m */,
 				2BD60DBD1C0337B1007294A3 /* ProfiltCell.h */,
 				2BD60DBE1C0337B1007294A3 /* ProfiltCell.m */,
+				2BD60DC21C033F4C007294A3 /* ProFiltCell.xib */,
 			);
 			name = "我";
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BD60DC31C033F4C007294A3 /* ProFiltCell.xib in Resources */,
 				0FE150BB1C02FC6400979649 /* Main.storyboard in Resources */,
 				0FE150C01C02FC6400979649 /* LaunchScreen.xib in Resources */,
 				0FE150BD1C02FC6400979649 /* Images.xcassets in Resources */,

@@ -16,8 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     
     // Do any additional setup after loading the view, typically from a nib.
+=======
+>>>>>>> origin/master
 }
 
 - (void)didReceiveMemoryWarning {

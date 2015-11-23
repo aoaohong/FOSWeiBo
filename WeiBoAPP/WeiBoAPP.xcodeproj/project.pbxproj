@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		08A5E8ED1C0336C600C787F5 /* 日了狗了_搞了一晚上.m in Sources */ = {isa = PBXBuildFile; fileRef = 08A5E8EC1C0336C600C787F5 /* 日了狗了_搞了一晚上.m */; settings = {ASSET_TAGS = (); }; };
 		0FE150B21C02FC6400979649 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150B11C02FC6400979649 /* main.m */; };
 		0FE150B51C02FC6400979649 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150B41C02FC6400979649 /* AppDelegate.m */; };
 		0FE150B81C02FC6400979649 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FE150B71C02FC6400979649 /* ViewController.m */; };
@@ -36,8 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		08A5E8EB1C0336C600C787F5 /* 日了狗了_搞了一晚上.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "日了狗了_搞了一晚上.h"; sourceTree = "<group>"; };
-		08A5E8EC1C0336C600C787F5 /* 日了狗了_搞了一晚上.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "日了狗了_搞了一晚上.m"; sourceTree = "<group>"; };
 		0FE150AC1C02FC6400979649 /* WeiBoAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeiBoAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FE150B01C02FC6400979649 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0FE150B11C02FC6400979649 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -163,8 +160,6 @@
 			children = (
 				0FE150E41C0302BE00979649 /* WeiBo_HomeVC.h */,
 				0FE150E51C0302BE00979649 /* WeiBo_HomeVC.m */,
-				08A5E8EB1C0336C600C787F5 /* 日了狗了_搞了一晚上.h */,
-				08A5E8EC1C0336C600C787F5 /* 日了狗了_搞了一晚上.m */,
 			);
 			name = "首页";
 			sourceTree = "<group>";
@@ -320,7 +315,6 @@
 				0FE150E61C0302BE00979649 /* WeiBo_HomeVC.m in Sources */,
 				0FE150E91C0302E400979649 /* WeiBo_DiscoverVC.m in Sources */,
 				0FE150B21C02FC6400979649 /* main.m in Sources */,
-				08A5E8ED1C0336C600C787F5 /* 日了狗了_搞了一晚上.m in Sources */,
 				0FE150EF1C030D7D00979649 /* TabBar_NullVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
